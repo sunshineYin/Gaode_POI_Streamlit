@@ -1,5 +1,5 @@
 # Gaode_POI_Streamlit
-A simple tool to get poi data from Amap.
+A simple tool to get poi data from Amap based on Streamlit.
 
 ## Usage
 
